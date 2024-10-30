@@ -1,0 +1,487 @@
+.payment {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  line-height: 140.63%;
+  font-weight: 900;
+  display: inline-block;
+  width: 638px;
+}
+.decore-icon {
+  position: absolute;
+  top: 88px;
+  left: 38px;
+  width: 263px;
+  height: 8.2px;
+}
+.payment-logo {
+  position: absolute;
+  top: 135px;
+  left: 66px;
+  width: 638px;
+  height: 96.2px;
+  font-size: 58px;
+}
+.back-bawah {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: rgba(251, 114, 68, 0.9);
+  width: 1550px;
+  height: 297px;
+}
+.about-us {
+  position: absolute;
+  height: 14.13%;
+  width: 73.61%;
+  top: 26.18%;
+  left: 0%;
+  display: inline-block;
+}
+.service-us {
+  position: absolute;
+  height: 14.13%;
+  width: 83.63%;
+  top: 46.08%;
+  left: 0%;
+  display: inline-block;
+}
+.contact {
+  position: absolute;
+  height: 14.13%;
+  width: 67.27%;
+  top: 65.97%;
+  left: 0%;
+  display: inline-block;
+}
+.company {
+  position: absolute;
+  height: 14.13%;
+  width: 81.83%;
+  top: 85.87%;
+  left: 0%;
+  display: inline-block;
+}
+.about-us1 {
+  position: absolute;
+  height: 18.88%;
+  width: 100%;
+  top: 0%;
+  left: 0%;
+  font-size: 24px;
+  font-weight: 600;
+  display: inline-block;
+}
+.gabout-us {
+  position: absolute;
+  height: 54.58%;
+  width: 10.4%;
+  top: 23.43%;
+  right: 34.03%;
+  bottom: 21.99%;
+  left: 55.57%;
+}
+.gabout-us a, .gcompany a {
+  text-decoration: none;
+  color: inherit;
+}  
+.partnership {
+  position: absolute;
+  height: 14.13%;
+  width: 84.46%;
+  top: 26.18%;
+  left: 0%;
+  display: inline-block;
+}
+.terms-of-use {
+  position: absolute;
+  height: 14.13%;
+  width: 95.12%;
+  top: 46.08%;
+  left: 0%;
+  display: inline-block;
+}
+.privacy {
+  position: absolute;
+  height: 14.13%;
+  width: 53.31%;
+  top: 65.97%;
+  left: 0%;
+  display: inline-block;
+}
+.sitemap {
+  position: absolute;
+  height: 14.13%;
+  width: 62.29%;
+  top: 85.87%;
+  left: 0%;
+  display: inline-block;
+}
+.gcompany {
+  position: absolute;
+  height: 54.58%;
+  width: 11.53%;
+  top: 23.43%;
+  right: 14.19%;
+  bottom: 21.99%;
+  left: 74.28%;
+}
+.facebook-icon {
+  position: absolute;
+  height: 100%;
+  width: 10.91%;
+  top: 0%;
+  right: 89.09%;
+  bottom: 0%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.instagram-icon {
+  position: absolute;
+  height: 1000;
+  width: 20%;
+  top: 0.21%;
+  right: 46.35%;
+  bottom: 12.5%;
+  left: 35.86%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.twitter-icon {
+  position: absolute;
+  height: 80.92%;
+  width: 20.28%;
+  top: 3.4%;
+  right: 0.03%;
+  bottom: 15.68%;
+  left: 79.69%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.social-media {
+  position: absolute;
+  height: 15.1%;
+  width: 30.88%;
+  top: 72.52%;
+  right: 69.12%;
+  bottom: 12.38%;
+  left: 0%;
+}
+.lets-connect {
+  position: absolute;
+  height: 59.95%;
+  width: 100%;
+  top: 39.99%;
+  left: 0%;
+  display: inline-block;
+}
+.surplus-to-solution {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  left: 0%;
+  font-weight: 600;
+  display: inline-block;
+}
+.logo {
+  position: absolute;
+  height: 35.51%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 64.49%;
+  left: 0%;
+  font-size: 32px;
+}
+.gstos-lets-connect {
+  position: absolute;
+  height: 38.59%;
+  width: 30.72%;
+  top: 22.22%;
+  right: 55.95%;
+  bottom: 39.19%;
+  left: 13.33%;
+}
+.footer {
+  position: absolute;
+  top: 785px;
+  left: 0px;
+  width: 1440px;
+  height: 297px;
+  font-size: 18px;
+  color: #fff;
+}
+.logo-icon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 57px;
+  height: 68px;
+  object-fit: cover;
+}
+.t {
+  color: #fff;
+}
+.to {
+  color: #fdc55e;
+}
+.surplustto-solution {
+  position: absolute;
+  top: 24px;
+  left: 68px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 245px;
+  height: 35.5px;
+}
+.logo-parent {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 313px;
+  height: 68px;
+}
+.glogo {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 313px;
+  height: 68px;
+  font-family: Skranji;
+}
+.offers-and-promo {
+  position: relative;
+  text-transform: capitalize;
+}
+.gmenu {
+  position: absolute;
+  top: 28px;
+  left: 384px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 50px;
+  font-size: 18px;
+  color: #191919;
+}
+.cart-button {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 100px;
+  background-color: #fdc55e;
+  width: 133px;
+  height: 45px;
+}
+.icon-cart {
+  position: absolute;
+  top: 9px;
+  left: 27px;
+  width: 26px;
+  height: 26px;
+  overflow: hidden;
+}
+.cart {
+  position: absolute;
+  top: 12px;
+  left: 56px;
+  font-weight: 600;
+}
+.gcart {
+  position: absolute;
+  top: 19px;
+  left: 1005px;
+  width: 133px;
+  height: 45px;
+  text-align: center;
+  font-size: 17px;
+  color: #fff;
+}
+.profile-button {
+  position: absolute;
+  top: 0px;
+  left: 150px;
+  border-radius: 100px;
+  background-color: #FA4A0C;
+  width: 162px;
+  height: 45px;
+}
+.icon-profile {
+  position: absolute;
+  top: 9px;
+  left: 166px;
+  width: 26px;
+  height: 26px;
+  overflow: hidden;
+}
+.profile {
+  position: absolute;
+  top: 10px;
+  left: 195px;
+  font-weight: 600;
+}
+.gprofile {
+  position: absolute;
+  top: 19px;
+  left: 1005px;
+  width: 262px;
+  height: 45px;
+  display: flex;
+  align-items: center; /* Memusatkan secara vertikal */
+  justify-content: center; /* Memusatkan secara horizontal */
+  font-size: 17px;
+  color: #fff;
+  white-space: nowrap; /* Mencegah teks terpotong */
+}
+
+
+/* .icon-profile {
+  position: absolute;
+  top: 19px;
+  left: 1167px;
+  width: 162px;
+  height: 45px;
+} */
+.navbar {
+  position: absolute;
+  top: 25px;
+  left: 66px;
+  width: 1329px;
+  height: 68px;
+  color: #fa4a0c;
+}
+.pay-button {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 100px;
+  background-color: #fdc55e;
+  width: 111px;
+  height: 45px;
+}
+.pay {
+  position: absolute;
+  top: 9px;
+  left: 37px;
+  font-weight: 600;
+}
+.gpay {
+  position: absolute;
+  top: 383px;
+  left: 224px;
+  width: 111px;
+  height: 45px;
+  text-align: center;
+  font-size: 17px;
+  color: #fff;
+}
+.gopay {
+  position: absolute;
+  top: 26px;
+  left: 212px;
+  font-size: 40px;
+  font-weight: 600;
+}
+.harga {
+  position: absolute;
+  top: 90px;
+  left: 229px;
+  font-weight: 600;
+}
+.kode {
+  position: absolute;
+  top: 0px;
+  left: 242px;
+  font-weight: 600;
+}
+.no-account {
+  position: absolute;
+  top: 0px;
+  left: 220px;
+  font-weight: 300;
+}
+.address-card-child {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 20px;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 560px;
+  height: 51px;
+}
+.address-card {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 560px;
+  height: 51px;
+}
+.div {
+  position: absolute;
+  top: 11px;
+  left: 207px;
+  font-weight: 300;
+}
+.address-card-parent {
+  position: absolute;
+  top: 36px;
+  left: 0px;
+  width: 560px;
+  height: 51px;
+}
+.number-field {
+  position: absolute;
+  top: 147px;
+  left: 0px;
+  width: 560px;
+  height: 87px;
+  font-size: 20px;
+}
+.password {
+  position: absolute;
+  top: 0px;
+  left: 232px;
+  font-weight: 300;
+}
+.div1 {
+  position: absolute;
+  top: 14px;
+  left: 251px;
+  font-weight: 300;
+}
+.password-field {
+  position: absolute;
+  top: 257px;
+  left: 0px;
+  width: 560px;
+  height: 87px;
+  font-size: 20px;
+}
+.payment-form {
+  position: absolute;
+  top: 274px;
+  left: 440px;
+  width: 560px;
+  height: 428px;
+  color: #000;
+}
+.desktop-8 {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  height: 1082px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 24px;
+  color: #fdc55e;
+  font-family: Poppins;
+}
+
